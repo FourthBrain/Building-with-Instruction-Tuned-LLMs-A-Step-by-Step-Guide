@@ -7,7 +7,9 @@
 
 Here are a collection of resources you can use to help fine-tune your LLMs, as well as create a few simple LLM powered applications!
 
+## 🗣️ Slides:
 
+Here are the slides used for the event: [Building with Instruction-Tuned LLMs](https://docs.google.com/presentation/d/1ay-0zRnCJRYPDWJeEPIZ3DFE1lyEf_X2/edit?usp=sharing&ouid=103741980085473523088&rtpof=true&sd=true)
 
 ## 🪡 Fine-tuning Approaches:
 
