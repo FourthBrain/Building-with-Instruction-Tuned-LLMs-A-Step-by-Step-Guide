@@ -31,3 +31,9 @@ MarketMail Using BLOOMz Resources:
 |  **Open-source LangChain Example**  | Leveraging LangChain to build a Hugging Face 🤗 Powered Application | [Here](https://colab.research.google.com/drive/1nz_P1dG1hpE2WIJ6Y2CKIO4BKhh-vlVH?usp=sharing) |
 |  **Open AI LangChain Example**  | Building an Open AI Powered Application | [Here](https://colab.research.google.com/drive/1iwuPo2UjK50cNdkIqbiBWB_zBc7XN5Vl?usp=sharing)   |
 
+## 🖥️ Demos:
+
+| Demo | Info | Link                                                                                           |
+| :-------- | :-------- | :------------------------------------------------------------------------------------------------ |
+|  **Instruct-tuned Chatbot Leveraging QLoRA**  | This demo is currently powered by the Guanaco Model - will be updated once our instruct-tuned model finishes training! | [Here](https://huggingface.co/spaces/FourthBrainGenAI/DeepLearningAIDemoChatBot) |
+|  **TalkToMyDoc**  | Query the first Hitch Hiker's Guide book! | [Here](https://huggingface.co/spaces/FourthBrainGenAI/TalkToMyDoc-Hitch-Hikers-Guide)   |
