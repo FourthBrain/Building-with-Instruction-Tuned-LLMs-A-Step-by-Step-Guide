@@ -7,10 +7,12 @@
 
 Here are a collection of resources you can use to help fine-tune your LLMs, as well as create a few simple LLM powered applications!
 
-<img src="https://i.imgur.com/iXwCAad.png" 
-     height="auto"/>
+
 
 ## 🪡 Fine-tuning Approaches:
+
+<img src="https://i.imgur.com/iXwCAad.png" 
+     height="auto"/>
 
 Instruct-tuning OpenLM's OpenLLaMA on the Dolly-15k Dataset Notebooks:
 
