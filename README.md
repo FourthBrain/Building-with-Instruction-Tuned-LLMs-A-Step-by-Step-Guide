@@ -31,6 +31,9 @@ MarketMail Using BLOOMz Resources:
 
 ## 🏗️ Converting Models into Applications:
 
+<img src="https://i.imgur.com/NxcHZkj.png" 
+     height="auto"/>
+
 | Notebook | Purpose | Link                                                                                           |
 | :-------- | :-------- | :------------------------------------------------------------------------------------------------ |
 |  **Open-source LangChain Example**  | Leveraging LangChain to build a Hugging Face 🤗 Powered Application | [Here](https://colab.research.google.com/drive/1nz_P1dG1hpE2WIJ6Y2CKIO4BKhh-vlVH?usp=sharing) |
